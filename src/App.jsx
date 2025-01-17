@@ -5,7 +5,8 @@ import About from "./Components/About/About";
 import Projects from "./Components/projects/Projects";
 import Resume from "./Components/Resume";
 import Footer from "./Components/Footer/Footer";
-import Contact from "./Components/Contact";import '@fontsource/open-sans';
+import Contact from "./Components/Contact";
+import '@fontsource/open-sans';
 import '@fontsource/roboto';
 import '@fontsource/pacifico'
 import '@fontsource/montserrat';
